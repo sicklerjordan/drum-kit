@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/drum-kit/static/css/main.ae2c04b6.css",
+    "main.js": "/drum-kit/static/js/main.ddbd8c1a.js",
+    "static/media/mixkit-classic-alarm-995.wav": "/drum-kit/static/media/mixkit-classic-alarm-995.8847f0e9a734d9cb9657.wav",
+    "static/media/src_sounds_ride.wav": "/drum-kit/static/media/src_sounds_ride.44e6385400f6b7c38f7c.wav",
+    "static/media/src_sounds_openhat.wav": "/drum-kit/static/media/src_sounds_openhat.482e523113fddc21f663.wav",
+    "static/media/src_sounds_boom.wav": "/drum-kit/static/media/src_sounds_boom.d89f41a5296c9cc8d21e.wav",
+    "static/media/musical_air_horn_dancehall_style_005.mp3": "/drum-kit/static/media/musical_air_horn_dancehall_style_005.b4aaa3e93c975804e7a7.mp3",
+    "static/media/src_sounds_tom.wav": "/drum-kit/static/media/src_sounds_tom.52db9c2303efd5360380.wav",
+    "static/media/src_sounds_clap (1).wav": "/drum-kit/static/media/src_sounds_clap (1).eb738e5291d099fc97b4.wav",
+    "static/media/src_sounds_hihat.wav": "/drum-kit/static/media/src_sounds_hihat.0273528cafd1985aa0e4.wav",
+    "static/media/src_sounds_snare.wav": "/drum-kit/static/media/src_sounds_snare.3aa3f94341c18d1e00d1.wav",
+    "static/media/src_sounds_kick.wav": "/drum-kit/static/media/src_sounds_kick.1d842c5565abcec54198.wav",
+    "static/media/src_sounds_tink.wav": "/drum-kit/static/media/src_sounds_tink.5b878d5df85f3294ee04.wav",
+    "index.html": "/drum-kit/index.html",
+    "main.ae2c04b6.css.map": "/drum-kit/static/css/main.ae2c04b6.css.map",
+    "main.ddbd8c1a.js.map": "/drum-kit/static/js/main.ddbd8c1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae2c04b6.css",
+    "static/js/main.ddbd8c1a.js"
+  ]
+}
